@@ -1,1 +1,1 @@
-# DynamoDB
+# Monitor an Amazon DynamoDB
